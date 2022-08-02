@@ -1,0 +1,33 @@
+.divs {
+  width: 200px;
+  height: 200px;
+  background-color: darkslategrey;
+}
+
+#div_lefttop {
+  float: left;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+#div_righttop {
+  float: right;
+  position: absolute;
+  top: 0%;
+  right: 0%;
+}
+
+#div_leftbottom {
+  float: left;
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+}
+
+#div_rightbottom {
+  float: right;
+  position: absolute;
+  bottom: 0%;
+  right: 0%;
+}

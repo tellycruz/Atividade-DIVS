@@ -1,0 +1,79 @@
+#body {
+  height: 600px;
+  background-color: lightgrey;
+}
+
+.div {
+  width: 82px;
+  height: 82px;
+  background-color: darkslategrey;
+  border: 3px solid white;
+}
+/* DIVS TOP LEFT */
+
+#um {
+  position: absolute;
+  margin-top: 85px;
+}
+
+#dois {
+  position: absolute;
+  margin-top: 170px;
+}
+
+#tres {
+  position: absolute;
+  margin-top: 85px;
+  margin-left: 85px;
+}
+
+#quatro {
+  position: absolute;
+  margin-left: 170px;
+}
+
+#cinco {
+  position: absolute;
+  margin-left: 85px;
+}
+
+#seis {
+  position: absolute;
+}
+/* margin leftbottom */
+
+#sete {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+#oito {
+  position: absolute;
+  right: 85px;
+  bottom: 0px;
+}
+
+#nove {
+  position: absolute;
+  right: 170px;
+  bottom: 0px;
+}
+
+#dez {
+  position: absolute;
+  right: 0px;
+  bottom: 85px;
+}
+
+#onze {
+  position: absolute;
+  right: 85px;
+  bottom: 85px;
+}
+
+#doze {
+  position: absolute;
+  right: 0px;
+  bottom: 170px;
+}

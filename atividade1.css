@@ -1,0 +1,39 @@
+#div_blue {
+  height: 550px;
+  width: 550px;
+  position: relative;
+  background-color: blue;
+  margin-left: 350px;
+}
+
+#div_red {
+  height: 450px;
+  width: 450px;
+  position: relative;
+  background-color: red;
+  transform: translate(12%, 12%);
+}
+
+#div_black {
+  height: 300px;
+  width: 300px;
+  position: relative;
+  background-color: black;
+  transform: translate(26%, 26%);
+}
+
+#div_green {
+  height: 150px;
+  width: 150px;
+  position: relative;
+  background-color: green;
+  transform: translate(50%, 50%);
+}
+
+#div_yellow {
+  height: 75px;
+  width: 75px;
+  position: relative;
+  background-color: yellow;
+  transform: translate(54%, 54%);
+}
